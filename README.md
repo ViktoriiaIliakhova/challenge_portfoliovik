@@ -8,4 +8,5 @@ I finished QA Manual course and I understood that additionally, it is really imp
 So I started to search for additional information about it and found DareIT on Instagram.
 I sent my application, and now I have a great opportunity to get wonderful experience and excellent skills.
 Thank you for helping Ukrainian people find ways to adapt to new circumstances in such a difficult time. 
-                                                                                         Viktoriia Iliakhova
+
+                                                                                        Viktoriia Iliakhova
