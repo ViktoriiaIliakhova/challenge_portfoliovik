@@ -14,6 +14,9 @@ I sent my application, and now I have a great opportunity to get wonderful exper
 Thank you for helping Ukrainian people find ways to adapt to new circumstances in such a difficult time. 
 
 
+
+
+
                                                                                    
 TASK 2: SELECTORS
 
