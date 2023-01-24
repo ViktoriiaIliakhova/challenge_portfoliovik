@@ -106,4 +106,4 @@ ELEMENT 5 - Password field
      //*[text()="Password"]
      
     3. Selector 3:
-    //*[@id="password-label"]   
+    //label [(@for="login")] 
