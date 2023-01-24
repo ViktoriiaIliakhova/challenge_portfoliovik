@@ -20,7 +20,7 @@ Thank you for helping Ukrainian people find ways to adapt to new circumstances i
                                                                                    
 TASK 2: SELECTORS
 
-ELEMENT 1 - Selection language field:
+ELEMENT 1 - Language selection field:
 
    1. Selector 1 - XPath:
    //*[@id="__next"]/form/div/div[2]/div/div
